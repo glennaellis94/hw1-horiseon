@@ -5,5 +5,7 @@ reordered some css sections to clearly match html structure.
 Changed title to reflect content.
 added "alt" to all images to provide text if image fails to load.
 
+link to deployed page: https://glennaellis94.github.io/hw1-horiseon/
+
 ![image](https://user-images.githubusercontent.com/67808053/111917662-ac27a800-8a57-11eb-8fe2-172528a008a3.png)
 ![image](https://user-images.githubusercontent.com/67808053/111917708-d6796580-8a57-11eb-82ce-e64daeab47e8.png)
